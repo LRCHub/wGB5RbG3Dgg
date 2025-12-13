@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "愛が呼ぶほうへ",
+  "base_artist": "Porno Graffitti",
+  "createdAt": "2025-12-13T12:52:31.967521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛が呼ぶほうへ",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/01_愛が呼ぶほうへ_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛が呼ぶほうへ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/02_愛が呼ぶほうへ_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛が呼ぶほうへ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/03_愛が呼ぶほうへ_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛が呼ぶほうへ",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/04_愛が呼ぶほうへ_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛が呼ぶほうへ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/05_愛が呼ぶほうへ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛が呼ぶほうへ",
+      "artist": "Porno Graffitti (ポルノグラフィティ)",
+      "has_synced": true,
+      "path": "select/06_愛が呼ぶほうへ_Porno_Graffitti_(ポルノグラフィティ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛が呼ぶほうへ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_愛が呼ぶほうへ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "愛が呼ぶほうへ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_02_愛が呼ぶほうへ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "愛が呼ぶほうへ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_03_愛が呼ぶほうへ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "愛が呼ぶほうへ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_04_愛が呼ぶほうへ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "愛が呼ぶほうへ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_05_愛が呼ぶほうへ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "愛が呼ぶほうへ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_06_愛が呼ぶほうへ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "愛が呼ぶほうへ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_07_愛が呼ぶほうへ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "愛が呼ぶほうへ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_08_愛が呼ぶほうへ_ポルノグラフィティ.txt"
+    }
+  ]
+}
